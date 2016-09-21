@@ -1,0 +1,17 @@
+{
+    "name": "jaeger/file-util",
+    "description": "PHP Library for simple to create/move/delete file/dir",
+    "authors": [
+        {
+            "name": "Jaeger",
+            "email": "JaegerCode@gmail.com",
+            "role": "Packager"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+          "Jaeger\\" : ""
+        }
+    }
+}
